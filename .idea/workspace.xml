@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="010f54fb-225e-4e4b-8ddd-18f42c62e43f" name="Changes" comment="backend" />
+    <list default="true" id="010f54fb-225e-4e4b-8ddd-18f42c62e43f" name="Changes" comment="completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +118,7 @@
       <workItem from="1659955086490" duration="8129000" />
       <workItem from="1659975613892" duration="9216000" />
       <workItem from="1660030841723" duration="6367000" />
-      <workItem from="1660039645360" duration="126000" />
+      <workItem from="1660039645360" duration="1688000" />
     </task>
     <task id="LOCAL-00001" summary="backend ready">
       <created>1659980405057</created>
@@ -152,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660039264028</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="completed">
+      <created>1660039822817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660039822817</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +191,8 @@
     <MESSAGE value="backend ready" />
     <MESSAGE value="backend frontend -&gt; completed" />
     <MESSAGE value="backend" />
-    <option name="LAST_COMMIT_MESSAGE" value="backend" />
+    <MESSAGE value="completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
