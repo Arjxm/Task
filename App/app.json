@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Task",
+    "slug": "Todo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#151515",
+        "foregroundImage": "./assets/tick.png"
+      },
+      "package": "com.arjun232001.Todo"
+    },
+    "web": {},
+    "description": "To-do app"
+  }
+}
