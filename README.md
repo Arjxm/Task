@@ -9,8 +9,7 @@ React native expo
 **Backend** mongoDB, Express, node js
 
 ### Screen
- 
-![WhatsApp Image 2022-08-09 at 3 53 14 PM { width: 200px; }](https://user-images.githubusercontent.com/81867699/183628197-4791944f-c232-408c-b09f-a34d900ac36d.jpeg =x250)
+ ![WhatsApp Image 2022-08-09 at 3 53 15 PM (1)](https://user-images.githubusercontent.com/81867699/183629383-f620e259-489e-4133-bbeb-524436d305f6.jpeg | width=100)
 
 
 
