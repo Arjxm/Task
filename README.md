@@ -9,10 +9,9 @@ React native expo
 **Backend** mongoDB, Express, node js
 
 ### Screen
- ![WhatsApp Image 2022-08-09 at 3 53 15 PM (1) | width=100](https://user-images.githubusercontent.com/81867699/183629383-f620e259-489e-4133-bbeb-524436d305f6.jpeg )
+![iMac - 1](https://user-images.githubusercontent.com/81867699/183631005-69612656-2945-43e7-a82e-7402d45cb688.png)
 
-
-
+ 
 ### Link to download
 
 https://expo.dev/artifacts/10bde77e-02cd-4084-b1bd-98d1e6e6942f
