@@ -10,7 +10,7 @@ React native expo
 
 ### Screen
 ````
-![WhatsApp Image 2022-08-09 at 3 53 14 PM](https://user-images.githubusercontent.com/81867699/183628197-4791944f-c232-408c-b09f-a34d900ac36d.jpeg)
+![WhatsApp Image 2022-08-09 at 3 53 14 PM  width="400" height="790"](https://user-images.githubusercontent.com/81867699/183628197-4791944f-c232-408c-b09f-a34d900ac36d.jpeg)
 ````
 
 
