@@ -16,7 +16,7 @@ React native expo
 
 https://expo.dev/artifacts/10bde77e-02cd-4084-b1bd-98d1e6e6942f
 
-### Run in local
+#### Run in local
 
 step 1
 
@@ -29,6 +29,7 @@ create .env file Pate
 MONGO_PASSWORD=YOUR_PASSWORD
 JWT_KEY=YOUR_JWT_KEY
 BASEURL=http//localhost:5000
+
 ```
 
 step - 3
